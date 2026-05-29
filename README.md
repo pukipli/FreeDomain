@@ -48,13 +48,15 @@ Dengan lebih dari 500.000 domain yang sudah terdaftar, DigitalPlat FreeDomain ad
 
 ### ❔ Pertanyaan Yang Sering Diajukan
 
-Periksa [FAQ Page](./documents/domains/faq.md)
-
----
+Periksa [Halaman Tanya Jawab](./documents/domains/faq.md)
 
 ### 🤝 Bergabunglah Dengan Komunitas Kami!
 
-🆕 Bergabunglah dengan server resmi [DigitalPlat FreeDomain Discord server](https://discord.gg/ma4RZzMmVW) kami hari ini! Jadilah yang pertama mengetahui pembaruan terbaru, dapatkan dukungan, dan terhubung dengan komunitas. Punya pertanyaan? Menghadapi tantangan? Atau hanya ingin berbagi apa yang sedang Anda bangun? Ayo bergabung bersama kami 🚀
+🆕 Bergabunglah dengan server resmi 
+
+[DigitalPlat FreeDomain Discord server](https://discord.gg/ma4RZzMmVW)
+
+kami hari ini! Jadilah yang pertama mengetahui pembaruan terbaru, dapatkan dukungan, dan terhubung dengan komunitas. Punya pertanyaan? Menghadapi tantangan? Atau hanya ingin berbagi apa yang sedang Anda bangun? Ayo bergabung bersama kami 🚀
 
 ⚠️ **Pemberitahuan Keamanan** Akun dan grup Telegram kami sebelumnya telah diretas dan tidak lagi berada di bawah kendali kami. Mohon **jangan mempercayai pesan, tautan, atau pengumuman** apa pun dari Telegram, terutama yang berkaitan dengan bonus, penghasilan, atau situs eksternal. Kami tidak lagi menggunakan Telegram sebagai saluran komunikasi resmi.
 
