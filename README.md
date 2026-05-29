@@ -70,13 +70,13 @@ Kami menanggapi penyalahgunaan nama domain dengan serius dan berkomitmen untuk m
 
 Email: abusereport@digitalplat.org
 
-## 🧠 Story
+<h1 align="center">🧠 Story</h1>
 
-This started as a small DNS experiment when I was 15, letting a few friends use subdomains.
+Ini berawal dari eksperimen DNS kecil ketika saya berusia 15 tahun, dengan mengizinkan beberapa teman menggunakan subdomain.
 
-Over time, it grew into something people actually rely on, and running it turned out to be much harder than building it.
+Seiring waktu, hal itu berkembang menjadi sesuatu yang benar-benar diandalkan orang, dan menjalankannya ternyata jauh lebih sulit daripada membangunnya.
 
-I wrote a bit about how it evolved here:  
+Saya menulis sedikit tentang bagaimana hal itu berkembang di sini:
 https://dev.to/edwardhsing/i-bought-a-domain-at-15-now-it-powers-400000-users-7ol
 
 <h1 align="center">Social Media</h1>
