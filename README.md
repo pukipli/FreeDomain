@@ -54,17 +54,9 @@ Periksa [FAQ Page](./documents/domains/faq.md)
 
 ### 🤝 Join Our Community!
 
-🆕 Join our official [DigitalPlat FreeDomain Discord server](https://discord.gg/ma4RZzMmVW) today!
- Be the first to know about the latest updates, get support, and connect with the community.
- Got questions? Facing challenges? Or just want to share what you're building?
- Come hang out with us 🚀
+🆕 Bergabunglah dengan server resmi [DigitalPlat FreeDomain Discord server](https://discord.gg/ma4RZzMmVW) kami hari ini! Jadilah yang pertama mengetahui pembaruan terbaru, dapatkan dukungan, dan terhubung dengan komunitas. Punya pertanyaan? Menghadapi tantangan? Atau hanya ingin berbagi apa yang sedang Anda bangun? Ayo bergabung bersama kami 🚀
 
-⚠️ **Security Notice**
-Our previous Telegram account and group were compromised and are no longer under our control.
-Please **do not trust any messages, links, or announcements** from Telegram, especially anything related to bonuses, earnings, or external sites.
-We are no longer using Telegram as an official communication channel.
-
----
+⚠️ **Pemberitahuan Keamanan** Akun dan grup Telegram kami sebelumnya telah diretas dan tidak lagi berada di bawah kendali kami. Mohon **jangan mempercayai pesan, tautan, atau pengumuman** apa pun dari Telegram, terutama yang berkaitan dengan bonus, penghasilan, atau situs eksternal. Kami tidak lagi menggunakan Telegram sebagai saluran komunikasi resmi.
 
 ### ⏭️ What's next
 We might introduce more domain options and free hosting in the future to help as many people as possible! 
