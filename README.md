@@ -63,12 +63,10 @@ Kami mungkin akan memperkenalkan lebih banyak pilihan domain dan hosting gratis 
 
 **Kami tak sabar untuk melihat apa yang akan Anda buat!**
 
-### 🚨 Abuse Reporting
-We take domain name abuse seriously and are committed to maintaining a safer and more open internet. Every report is carefully reviewed, and response times may vary from a few hours to several days, depending on the complexity of the case.
+### 🚨 Pelaporan Penyalahgunaan
+Kami menanggapi penyalahgunaan nama domain dengan serius dan berkomitmen untuk menjaga internet yang lebih aman dan terbuka. Setiap laporan ditinjau dengan cermat, dan waktu respons dapat bervariasi dari beberapa jam hingga beberapa hari, tergantung pada kompleksitas kasusnya.
 
 Email: abusereport@digitalplat.org
-
----
 
 ## 🧠 Story
 
