@@ -32,9 +32,7 @@ Dengan FreeDomain, Anda bebas mendaftarkan domain unik dan menghostingnya dengan
 - **.XX.KG**
 - **.QD.JE**
 
-_(More extensions coming soon!)_
-
----
+_(ekstensi lainnya akan segera hadir!)_
 
 ### 🌍 Ready to Claim Your Free Domain?
 
