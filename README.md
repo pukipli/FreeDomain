@@ -24,7 +24,7 @@ Dengan FreeDomain, Anda bebas mendaftarkan domain unik dan menghostingnya dengan
 
 > FreeDomain dirancang dan dikelola secara independen oleh [**pukipli**](http://github.com/pukipli) Sebagai Pembuatnya.
 
-### 🌍 Available Domain Extensions
+<h1 align="center">🌍 Ekstensi Domain yang Tersedia</h1>
 
 - **.DPDNS.ORG**
 - **.US.KG**
