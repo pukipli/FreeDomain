@@ -23,7 +23,6 @@ Dengan FreeDomain, Anda bebas mendaftarkan domain unik dan menghostingnya dengan
 - Di **FreeDomain**,kami memiliki misi untuk membuat web lebih mudah diakses.Kami percaya bahwa biaya domain seharusnya tidak menghalangi siapa pun untuk membuat situs web.Tujuan kami adalah menjadikan internet sebagai ruang terbuka di mana setiap orang dapat memiliki tempat mereka sendiri secara online,terlepas dari anggaran.
 
 > FreeDomain dirancang dan dikelola secara independen oleh [**pukipli**](http://github.com/pukipli) Sebagai Pembuatnya.
----
 
 ### 🌍 Available Domain Extensions
 
