@@ -14,9 +14,9 @@
 
 <h1 align="center">Deskripsi</h1>
 
-Welcome to **FreeDomain**, where we believe everyone deserves a digital identity. Whether you're an individual, or an organization, we’re offering free domain names to bring your ideas to life – no strings attached!
+Selamat datang di FreeDomain , tempat kami percaya bahwa setiap orang berhak memiliki identitas digital. Baik Anda seorang individu maupun organisasi, kami menawarkan nama domain gratis untuk mewujudkan ide-ide Anda – tanpa ikatan apa pun!
 
-With FreeDomain, you’re free to register a unique domain and host it with your favorite DNS provider, like Cloudflare, FreeDNS by Afraid.org, or Hostry. Get online with complete freedom, and keep your wallet happy.
+Dengan FreeDomain, Anda bebas mendaftarkan domain unik dan menghostingnya dengan penyedia DNS favorit Anda, seperti Cloudflare, FreeDNS by Afraid.org, atau Hostry. Dapatkan akses internet dengan kebebasan penuh, dan tetap hemat biaya.
 
 ### ✔️ Why Free Domains?
 
