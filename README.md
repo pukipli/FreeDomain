@@ -52,18 +52,16 @@ Periksa [FAQ Page](./documents/domains/faq.md)
 
 ---
 
-### 🤝 Join Our Community!
+### 🤝 Bergabunglah Dengan Komunitas Kami!
 
 🆕 Bergabunglah dengan server resmi [DigitalPlat FreeDomain Discord server](https://discord.gg/ma4RZzMmVW) kami hari ini! Jadilah yang pertama mengetahui pembaruan terbaru, dapatkan dukungan, dan terhubung dengan komunitas. Punya pertanyaan? Menghadapi tantangan? Atau hanya ingin berbagi apa yang sedang Anda bangun? Ayo bergabung bersama kami 🚀
 
 ⚠️ **Pemberitahuan Keamanan** Akun dan grup Telegram kami sebelumnya telah diretas dan tidak lagi berada di bawah kendali kami. Mohon **jangan mempercayai pesan, tautan, atau pengumuman** apa pun dari Telegram, terutama yang berkaitan dengan bonus, penghasilan, atau situs eksternal. Kami tidak lagi menggunakan Telegram sebagai saluran komunikasi resmi.
 
-### ⏭️ What's next
-We might introduce more domain options and free hosting in the future to help as many people as possible! 
+# ⏭️ Apa Selanjutnya
+Kami mungkin akan memperkenalkan lebih banyak pilihan domain dan hosting gratis di masa mendatang untuk membantu sebanyak mungkin orang!
 
-**We can’t wait to see what you build!**
-
----
+**Kami tak sabar untuk melihat apa yang akan Anda buat!**
 
 ### 🚨 Abuse Reporting
 We take domain name abuse seriously and are committed to maintaining a safer and more open internet. Every report is carefully reviewed, and response times may vary from a few hours to several days, depending on the complexity of the case.
