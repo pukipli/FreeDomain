@@ -46,9 +46,9 @@ Ayo segera daftarkan domain Anda dengan mengunjungi situs kami:
 
 Dengan lebih dari 500.000 domain yang sudah terdaftar, DigitalPlat FreeDomain adalah pilihan tepercaya bagi individu dan organisasi. Bergabunglah dengan komunitas kami yang terus berkembang dan klaim domain gratis Anda hari ini!
 
-### ❔ FAQ
+### ❔ Pertanyaan Yang Sering Diajukan
 
-Check [FAQ Page](./documents/domains/faq.md)
+Periksa [FAQ Page](./documents/domains/faq.md)
 
 ---
 
