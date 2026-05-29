@@ -18,11 +18,11 @@ Selamat datang di FreeDomain , tempat kami percaya bahwa setiap orang berhak mem
 
 Dengan FreeDomain, Anda bebas mendaftarkan domain unik dan menghostingnya dengan penyedia DNS favorit Anda, seperti Cloudflare, FreeDNS by Afraid.org, atau Hostry. Dapatkan akses internet dengan kebebasan penuh, dan tetap hemat biaya.
 
-<h1 align="center">Mengapa Domain Gratis</h1>
-
-> DigitalPlat FreeDomain is independently designed and maintained by [**Edward Hsing**](https://github.com/EdwardLab), founder of the DigitalPlat Foundation.
+<h1 align="center">Mengapa Domain Gratis<h1>
 
 Di **FreeDomain**,kami memiliki misi untuk membuat web lebih mudah diakses.Kami percaya bahwa biaya domain seharusnya tidak menghalangi siapa pun untuk membuat situs web.Tujuan kami adalah menjadikan internet sebagai ruang terbuka di mana setiap orang dapat memiliki tempat mereka sendiri secara online,terlepas dari anggaran.
+
+> FreeDomain dirancang dan dikelola secara independen oleh [**pukipli**](http://github.com/pukipli) Sebagai Pembuatnya.
 
 ---
 
