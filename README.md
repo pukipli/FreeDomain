@@ -42,11 +42,9 @@ Ayo segera daftarkan domain Anda dengan mengunjungi situs kami:
 
 📝 [Read our tutorial](./documents/tutorial/index.md)
 
-### 🌟 Trusted by Thousands
+# 🌟 Dipercaya Oleh Ribuan Orang
 
-With over 500,000 domains already registered, DigitalPlat FreeDomain is a trusted choice for individuals and organizations alike. Join our growing community and claim your own free domain today!
-
----
+Dengan lebih dari 500.000 domain yang sudah terdaftar, DigitalPlat FreeDomain adalah pilihan tepercaya bagi individu dan organisasi. Bergabunglah dengan komunitas kami yang terus berkembang dan klaim domain gratis Anda hari ini!
 
 ### ❔ FAQ
 
