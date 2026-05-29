@@ -34,15 +34,13 @@ Dengan FreeDomain, Anda bebas mendaftarkan domain unik dan menghostingnya dengan
 
 _(ekstensi lainnya akan segera hadir!)_
 
-### 🌍 Ready to Claim Your Free Domain?
+<h1 align="center">🌍 Siap Klaim Domain Gratis Anda?</h1>
 
-Jump in and register your domain by visiting our site:
+Ayo segera daftarkan domain Anda dengan mengunjungi situs kami:
 
-➡️ [DigitalPlat FreeDomain Dashboard](https://dash.domain.digitalplat.org/)
+➡️ [FreeDomain Dashboard](https://dash.domain.digitalplat.org/)
 
 📝 [Read our tutorial](./documents/tutorial/index.md)
-
----
 
 ### 🌟 Trusted by Thousands
 
